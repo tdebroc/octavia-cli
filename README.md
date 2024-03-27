@@ -90,7 +90,7 @@ We decided to package the CLI in a docker image with portability in mind.
 ### As a command available in your bash profile
 
 ```bash
-curl -s -o- https://raw.githubusercontent.com/airbytehq/airbyte/master/octavia-cli/install.sh | bash
+curl -s -o- https://raw.githubusercontent.com/marcosmarxm/octavia-cli/blob/main/octavia-cli/install.sh | bash
 ```
 
 This script:
